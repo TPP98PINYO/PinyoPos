@@ -1,0 +1,9 @@
+master/
+┃
+┣━━img/          // Folder with images
+┃
+┣━━popup/        // Folder for the popup page
+┃
+┣━━manifest.json // Initiate the extension to app store
+┣━━background.js // Background script
+┗━━reload.js     // Reload functionality
